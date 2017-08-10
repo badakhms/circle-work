@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/booyah', (req, res) => {
-  res.send('booyah 2!')
+  res.send('booyahi yahooo 2!')
 })
 
 
